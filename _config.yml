@@ -28,6 +28,9 @@ twitter_username: joshthor
 github_username:  joshthor3222
 show_excerpt: true
 
+kramdown:
+  hard_wrap: true
+
 include: ['_blog']
 # Build settings
 theme: minima
