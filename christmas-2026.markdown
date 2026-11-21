@@ -59,4 +59,3 @@ Apparently Joel is getting married. Wanna buy my ticket? lol
 **You got secretly rich or love me more than my siblings:**
 I want to start transitioning to using AI fully locally, so I want one of dese:  [AMD Ryzen AI Halo at Micro Center](https://www.microcenter.com/product/711962/amd-ryzen-ai-halo-developer-platform-windows-11-pro)
 I want this watch but I don't think I can justify it without paying off my house first: [Longines Legend Diver](https://www.longines.com/en-us/p/watch-longines-legend-diver-l3-774-1-50-2)
-I also want this watch but I can't justify it until I pay off my student loans: [Mido Ocean Star GMT](https://www.midowatches.com/en/ocean-star-gmt-m0266291104100.html)
